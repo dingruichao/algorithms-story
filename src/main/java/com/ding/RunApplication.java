@@ -10,6 +10,7 @@ public class RunApplication {
 	public static void main(String[] args) {
 		System.out.println("ccdd");
 		System.out.println("aabb");
+		System.out.println("abc");
 		SpringApplication.run(RunApplication.class, args);
 	}
 
