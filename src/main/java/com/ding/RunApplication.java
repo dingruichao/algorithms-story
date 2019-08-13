@@ -8,6 +8,8 @@ import org.springframework.context.annotation.ComponentScan;
 public class RunApplication {
 
 	public static void main(String[] args) {
+		System.out.println("ccdd");
+		System.out.println("aabb");
 		SpringApplication.run(RunApplication.class, args);
 	}
 
